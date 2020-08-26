@@ -1,7 +1,6 @@
 # General Info:
 Project is hosted with [Firebase Cloud Hosting](https://firegram-96ff9.web.app/).<br />
 This is an Image grid application, where you can upload your photos to Firebase Cloud Firestore.<br />
-React.js side of the applicattion is in **client** folder.
 
 ## Technologies
 Project is created with:
